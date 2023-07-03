@@ -1,8 +1,14 @@
 [
     {
-        "id": 1,
-        "name": "samosa",
-        "price": 40.0,
+        "id": 2,
+        "name": "kachori",
+        "price": 20.0,
         "availability": "no"
+    },
+    {
+        "id": 2,
+        "name": "samosa",
+        "price": 20.0,
+        "availability": "yes"
     }
 ]

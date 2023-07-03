@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 1,
+        "customer": "tejas",
+        "items": [
+            {
+                "id": 2,
+                "name": "samosa",
+                "price": 20.0,
+                "availability": "yes"
+            },
+            {
+                "id": 2,
+                "name": "samosa",
+                "price": 20.0,
+                "availability": "yes"
+            }
+        ],
+        "total_price": 40.0,
+        "status": "preparing"
+    }
+]
